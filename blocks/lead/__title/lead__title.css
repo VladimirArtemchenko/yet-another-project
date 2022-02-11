@@ -1,0 +1,28 @@
+.lead__title {
+    max-width: calc(100% - 2 * 280px + 2 * 148px); /*расчет ширины блока*/
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 100px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .lead__title {
+        max-width: calc(100% - 2 * 152px + 2 * 48px);
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__title {
+        max-width: calc(100% - 2 * 24px);
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__title {
+        font-size: 40px;
+        line-height: 44px;
+    }
+}

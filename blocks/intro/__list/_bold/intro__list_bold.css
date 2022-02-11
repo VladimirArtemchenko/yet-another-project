@@ -1,0 +1,9 @@
+.intro__list_bold {
+    font-weight: 700;
+}
+
+@media screen and (max-width: 560px) {
+    .intro__list_bold {
+        font-weight: normal;
+    }
+}
