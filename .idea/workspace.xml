@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dddb609b-8ea2-4b55-ad0d-903597fec718" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/_active/header__lang-link_active.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/_bold/intro__list_bold.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/root/root.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/website/__link/website__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/website/__url-heading/website__url-heading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/website/website.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lead__image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +89,7 @@
       <workItem from="1644391764084" duration="47898000" />
       <workItem from="1644490378068" duration="8259000" />
       <workItem from="1644571470886" duration="21652000" />
+      <workItem from="1644611816249" duration="14000" />
     </task>
     <servers />
   </component>
