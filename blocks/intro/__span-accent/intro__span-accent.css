@@ -1,9 +1,9 @@
-.intro__list_bold {
+.intro__span-accent {
     font-weight: 700;
 }
 
 @media screen and (max-width: 560px) {
-    .intro__list_bold {
+    .intro__span-accent {
         font-weight: normal;
     }
 }

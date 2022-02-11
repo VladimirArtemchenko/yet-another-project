@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dddb609b-8ea2-4b55-ad0d-903597fec718" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/website/__link/website__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/website/__link/website__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/_bold/intro__list_bold.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__span-accent/intro__span-accent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +61,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\intro\__span-accent" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\section__margin" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\cover\__link" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\cover\__centred-block" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\vendor" />
-      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\footer\__link" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,6 +94,7 @@
       <workItem from="1644611816249" duration="14000" />
       <workItem from="1644611886553" duration="4000" />
       <workItem from="1644612470229" duration="41000" />
+      <workItem from="1644612649569" duration="1023000" />
     </task>
     <servers />
   </component>
