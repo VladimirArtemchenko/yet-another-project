@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dddb609b-8ea2-4b55-ad0d-903597fec718" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__list/menu__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__list/places__list.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/menu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -45,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,11 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\places" />
+      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\intro\__span-accent" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\section__margin" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\cover\__link" />
-      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\cover\__centred-block" />
-      <recent name="C:\Users\voart\Desktop\dev\russian-travel\vendor" />
     </key>
   </component>
   <component name="RunManager">
@@ -97,6 +103,8 @@
       <workItem from="1644614883938" duration="71000" />
       <workItem from="1644654940247" duration="4981000" />
       <workItem from="1644660205125" duration="159000" />
+      <workItem from="1644660933065" duration="30000" />
+      <workItem from="1644661557524" duration="1384000" />
     </task>
     <servers />
   </component>

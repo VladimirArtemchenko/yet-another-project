@@ -26,6 +26,7 @@
 @import url(../blocks/places/places.css);
 
 @import url(../blocks/place/place.css);
+@import url(../blocks/places/__list/places__list.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/website/website.css);
@@ -42,5 +43,6 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__list/menu__link.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
