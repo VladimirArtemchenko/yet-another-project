@@ -1,5 +1,5 @@
 .lead__title {
-    max-width: calc(100% - 2 * 280px + 2 * 148px); /*расчет ширины блока*/
+    max-width: calc(100% - 2 * 280px + 2 * 148px);
     font-size: 96px;
     font-weight: 900;
     line-height: 100px;

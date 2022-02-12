@@ -10,7 +10,6 @@
 
 @media (max-width: 1023px) {
     .places {
-        max-width: 720px;
         margin: 0 calc((100% - 720px) / 2) 90px;
     }
 }
