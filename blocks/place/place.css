@@ -11,7 +11,7 @@
 
 @media (max-width: 1279px) {
     .place {
-        grid-template-columns:440px minmax(min-content, 1fr);
+        grid-template-columns: 440px minmax(min-content, 1fr);
         column-gap: 32px;
     }
 }
