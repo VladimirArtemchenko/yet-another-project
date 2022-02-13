@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dddb609b-8ea2-4b55-ad0d-903597fec718" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/menu/__link/menu__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/__list/menu__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/_place/menu_place_footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu/__list/menu__link.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/__list/places__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/__list/places__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/menu/__link/menu__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/menu/_place/menu_place_footer.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -72,9 +64,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\footer" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\menu" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks" />
-      <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\footer" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\places" />
       <recent name="C:\Users\voart\Desktop\dev\russian-travel\blocks\intro\__span-accent" />
     </key>
@@ -116,6 +108,8 @@
       <workItem from="1644696801491" duration="383000" />
       <workItem from="1644747572690" duration="2044000" />
       <workItem from="1644750091521" duration="529000" />
+      <workItem from="1644752357671" duration="962000" />
+      <workItem from="1644754207230" duration="173000" />
     </task>
     <servers />
   </component>

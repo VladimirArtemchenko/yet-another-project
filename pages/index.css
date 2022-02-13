@@ -43,7 +43,6 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/menu/menu.css);
-@import url(../blocks/menu/__link/menu__link.css);
 @import url(../blocks/menu/__list/menu__list.css);
-@import url(../blocks/menu/_place/menu_place_footer.css);
+@import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
